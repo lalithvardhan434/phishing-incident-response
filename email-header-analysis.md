@@ -242,6 +242,3 @@ cautious users, and highlights why technical controls (MFA, URL
 filtering) are more reliable than user vigilance alone.
 
 ---
-
-*Lalith Vardhan Boddala | SOC Home Lab Portfolio*
-*GitHub: https://github.com/lalithvardhan434*
