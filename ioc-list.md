@@ -80,5 +80,3 @@
 | Alert on unusual outbound HTTP POST from workstations | Medium |
 
 ---
-
-*Generated as part of SOC Home Lab Portfolio — Lalith Vardhan Boddala*
