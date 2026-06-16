@@ -160,5 +160,3 @@ Document the following after every phishing incident:
 | Exfiltration Over HTTP | T1041 | Exfiltration |
 
 ---
-
-*Lalith Vardhan Boddala — SOC Home Lab Portfolio*
