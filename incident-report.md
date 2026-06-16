@@ -1,7 +1,7 @@
 # Incident Report — PHI-2026-001
 ## Phishing Attack: Credential Harvesting via Spearphishing Link
 ### Author: Lalith Vardhan Boddala
-### Classification: Portfolio / Lab Simulation
+### Classification: Lab Simulation
 ### Date: 2026-06-15
 
 ---
@@ -196,6 +196,3 @@ IOC extraction, SIEM-based investigation, packet analysis, and
 incident report writing — core competencies for SOC L1 analyst roles.
 
 ---
-
-*Lalith Vardhan Boddala | SOC Home Lab Portfolio*
-*GitHub: https://github.com/lalithvardhan434*
