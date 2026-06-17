@@ -8,8 +8,8 @@
 
 This project demonstrates the complete phishing incident response lifecycle from a SOC analyst perspective. A controlled phishing campaign was executed using GoPhish, delivering a credential harvesting email to a Windows 10 victim endpoint. The full attack chain was detected, investigated, and documented using industry-standard tools.
 
-**Built by:** Lalith Vardhan Boddala | MSc Cybersecurity | Middlesex University Dubai  
-**Purpose:** SOC Analyst L1 portfolio — GitHub / LinkedIn  
+**Built by:** Lalith Vardhan Boddala | MSc Cybersecurity
+**Purpose:** SOC Analyst L1 portfolio project  
 **Focus:** Incident Response, IOC Extraction, Email Forensics, Packet Analysis
 
 ---
@@ -186,4 +186,3 @@ phishing-incident-response/
 
 ---
 
-*Lalith Vardhan Boddala | MSc Cybersecurity | Middlesex University Dubai*
