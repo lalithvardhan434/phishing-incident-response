@@ -143,7 +143,7 @@ phishing-incident-response/
 |---|---|---|
 | Spearphishing Link | T1566.002 | GoPhish email delivered and clicked |
 | User Execution: Malicious Link | T1204.001 | Link clicked 6 times from WINDOWS_TARGET |
-| Credentials from Web Browsers | T1056 | Credentials submitted 3 times — captured in GoPhish |
+| Input Capture | T1056 | Credentials submitted 3 times — captured in GoPhish |
 | Exfiltration over HTTP | T1041 | Plaintext POST confirmed in Wireshark PCAP |
 
 ---
